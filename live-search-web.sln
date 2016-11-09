@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveSearchUI", "live-search-web\LiveSearchUI.csproj", "{2592A37D-6EA0-46DC-8A58-CDD3736584E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveSearchServices", "LiveSearchServices\LiveSearchServices.csproj", "{34A71B63-B043-4BA3-A1B8-0A4320BECD1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{412F2BD1-6299-4A40-8B57-130675EFF2BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeakerManager", "SpeakerManager.cs\SpeakerManager.csproj", "{53A0F8F3-3465-4739-B85F-C3A421908B1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2592A37D-6EA0-46DC-8A58-CDD3736584E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2592A37D-6EA0-46DC-8A58-CDD3736584E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2592A37D-6EA0-46DC-8A58-CDD3736584E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2592A37D-6EA0-46DC-8A58-CDD3736584E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34A71B63-B043-4BA3-A1B8-0A4320BECD1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34A71B63-B043-4BA3-A1B8-0A4320BECD1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34A71B63-B043-4BA3-A1B8-0A4320BECD1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34A71B63-B043-4BA3-A1B8-0A4320BECD1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{412F2BD1-6299-4A40-8B57-130675EFF2BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{412F2BD1-6299-4A40-8B57-130675EFF2BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{412F2BD1-6299-4A40-8B57-130675EFF2BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{412F2BD1-6299-4A40-8B57-130675EFF2BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53A0F8F3-3465-4739-B85F-C3A421908B1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53A0F8F3-3465-4739-B85F-C3A421908B1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53A0F8F3-3465-4739-B85F-C3A421908B1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53A0F8F3-3465-4739-B85F-C3A421908B1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

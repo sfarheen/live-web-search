@@ -1,0 +1,5 @@
+E:\Languages Practice\Java Script\live-search-web\Models\bin\Debug\Models.dll
+E:\Languages Practice\Java Script\live-search-web\Models\bin\Debug\Models.pdb
+E:\Languages Practice\Java Script\live-search-web\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+E:\Languages Practice\Java Script\live-search-web\Models\obj\Debug\Models.dll
+E:\Languages Practice\Java Script\live-search-web\Models\obj\Debug\Models.pdb

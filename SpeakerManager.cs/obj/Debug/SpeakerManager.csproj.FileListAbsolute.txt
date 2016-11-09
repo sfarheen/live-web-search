@@ -1,0 +1,7 @@
+E:\Languages Practice\Java Script\live-search-web\SpeakerManager.cs\bin\Debug\SpeakerManager.cs.dll
+E:\Languages Practice\Java Script\live-search-web\SpeakerManager.cs\bin\Debug\SpeakerManager.cs.pdb
+E:\Languages Practice\Java Script\live-search-web\SpeakerManager.cs\bin\Debug\Models.dll
+E:\Languages Practice\Java Script\live-search-web\SpeakerManager.cs\bin\Debug\Models.pdb
+E:\Languages Practice\Java Script\live-search-web\SpeakerManager.cs\obj\Debug\SpeakerManager.csprojResolveAssemblyReference.cache
+E:\Languages Practice\Java Script\live-search-web\SpeakerManager.cs\obj\Debug\SpeakerManager.cs.dll
+E:\Languages Practice\Java Script\live-search-web\SpeakerManager.cs\obj\Debug\SpeakerManager.cs.pdb

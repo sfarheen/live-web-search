@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Live Search</title>
+	<meta charset="utf-8" />
+    <link rel="stylesheet" href="mystyle.css"/>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="script.js"> </script>
+</head>
+
+<body>
+
+    <div id="searcharea">
+        <label for="search" > Live Search </label>
+        <p>Enter the name or info about a speaker</p>
+        <input type ="search" name="search" id="search" placeholder="name or info" />
+    </div>
+
+    <div id="update">
+
+    </div>
+
+     <script>
+            $('#search').keyup(function () {
+                show();
+            });
+    </script>
+
+</body>
+</html>
